@@ -31,8 +31,8 @@ from aiogram.types import (
     Message,
 )
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
+BOT_TOKEN = "9029655720:AAG2_l5_r52d30rSUjjw6ZJvMXIOps85SkE"
+ADMIN_ID = "7429970078"
 
 SUPPORT_USERNAME = "@VLTXListBank"
 SUPPORT_URL = "https://t.me/VLTXListBank"
@@ -43,7 +43,7 @@ CURRENCY_LABEL = {"stars": "звёзд", "rub": "RUB"}
 
 WELCOME_TEXT = (
     "Добро пожаловать 👋\n\n"
-    "💼 VLTX - Мы специализированный сервис по автоматической покупки подарков "
+    "💼 Playerok - Мы специализированный сервис по автоматической покупки подарков "
     "и обеспечению безопасности вне биржевых сделок.\n\n"
     "✨ Автоматизированый алгоритм исполнения.\n"
     "⚡️ Скорость и автоматизация.\n"
