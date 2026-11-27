@@ -1,5 +1,5 @@
 """
-VLTX — Telegram-бот продажи подарков за RUB или звёзды.
+Playerok — Telegram-бот продажи подарков за RUB или звёзды.
 
 Запуск:
     pip install "aiogram>=3.7"
