@@ -29,8 +29,8 @@ from aiogram.types import (
     Message,
 )
 
-BOT_TOKEN = 9029655720:AAG2_l5_r52d30rSUjjw6ZJvMXIOps85SkE
-ADMIN_ID = 7429970078
+BOT_TOKEN = "9029655720:AAG2_l5_r52d30rSUjjw6ZJvMXIOps85SkE"
+ADMIN_ID = "7429970078"
 
 SUPPORT_USERNAME = "@VLTXListBank"
 SUPPORT_URL = "https://t.me/VLTXListBank"
